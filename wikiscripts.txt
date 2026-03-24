@@ -1,5 +1,4 @@
 --[[
-leaked by the people
 So this is the list of hats you need to be wearing (they are all free to get) :
 https://www.roblox.com/catalog/451220849/Lavender-Updo
 https://www.roblox.com/catalog/63690008/Pal-Hair
@@ -9,7 +8,10 @@ https://www.roblox.com/catalog/62234425/Brown-Hair
 https://www.roblox.com/catalog/62724852/Chestnut-Bun (this one is in a bundle) - https://www.roblox.com/bundles/239/Woman
 https://www.roblox.com/catalog/4819740796/Robox
 also the last hat is the head of the stand]]--
- 
+
+Reuploaded By: icey7
+making this public for everyone who wants to use this script.
+
  --[[Controls:
  Q - Summon/Unsummon
  E - Barrage - Throws Punches
