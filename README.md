@@ -3,3 +3,8 @@
 
 ![Status](https://img.shields.io/badge/status-working-green)
 ![Type](https://img.shields.io/badge/type-legacy-red)
+
+
+## 🎧 Random Music
+
+[![Watch Video](https://img.youtube.com/vi/DloZ1xZHCmo/0.jpg)](https://youtu.be/DloZ1xZHCmo)
